@@ -11,12 +11,13 @@
 ### Linguagens e tecnologias
 
 <div style="display: inline-block">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Logo da linguagem de programação Java" width="50rem" height="50rem"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Logo da linguagem Python" width="50rem" height="50rem"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="Logo da linguagem C++" width="50rem" height="50rem"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Logo do sistema de versionamento GIT" width="50rem" height="50rem"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50rem" height="50rem"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50rem" height="50rem"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50rem" height="50rem"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50rem" height="50rem"/>
 </div>
 
 ### Me encontre também em
 
 - [DEV Community](https://dev.to/nogueiraluiz)
+- [Twitter/X](https://twitter.com/nogueiraluiz_io)
