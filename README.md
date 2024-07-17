@@ -21,3 +21,4 @@
 
 - [DEV Community](https://dev.to/nogueiraluiz)
 - [Twitter/X](https://twitter.com/nogueiraluiz_io)
+- [LinkedIn](https://www.linkedin.com/in/nogueiraluiz)
