@@ -4,7 +4,7 @@
 
 - Minha linguagem principal é **Java** ☕
 - Sou técnico em Desenvolvimento de Sistemas pelo IF Sudeste MG
-- Estudo Ciência da Computação na UF
+- Estudo Ciência da Computação na UFJF
 - Idiomas que falo: PT, EN
 - Pronomes: ele/dele
 
